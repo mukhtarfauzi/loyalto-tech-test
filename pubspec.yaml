@@ -1,0 +1,75 @@
+name: loyaltotest
+description: The assignment for PT Loyalty Program Indonesia
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  font_awesome_flutter: ^8.7.0
+  flutter_svg: ^0.17.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: WorkSans
+      fonts:
+        - asset: assets/fonts/work_sans/WorkSans-Regular.ttf
+        - asset: assets/fonts/work_sans/WorkSans-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/work_sans/WorkSans-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/work_sans/WorkSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/work_sans/WorkSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/work_sans/WorkSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/work_sans/WorkSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/work_sans/WorkSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/work_sans/WorkSans-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/work_sans/WorkSans-Black.ttf
+          weight: 900
+
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/quicksand/Quicksand-Regular.ttf
+        - asset: assets/fonts/quicksand/Quicksand-Light.ttf
+          weight: 300
+        - asset: assets/fonts/quicksand/Quicksand-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/quicksand/Quicksand-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/quicksand/Quicksand-Bold.ttf
+          weight: 700
+
+    - family: NotoSansKr
+      fonts:
+        - asset: assets/fonts/noto_sans_kr/NotoSansKR-Regular.otf
+        - asset: assets/fonts/noto_sans_kr/NotoSansKR-Thin.otf
+          weight: 100
+        - asset: assets/fonts/noto_sans_kr/NotoSansKR-Light.otf
+          weight: 300
+        - asset: assets/fonts/noto_sans_kr/NotoSansKR-Medium.otf
+          weight: 500
+        - asset: assets/fonts/noto_sans_kr/NotoSansKR-Bold.otf
+          weight: 700
+        - asset: assets/fonts/noto_sans_kr/NotoSansKR-Black.otf
+          weight: 900

@@ -2,15 +2,18 @@
 
 The assignment for PT Loyalty Program Indonesia
 
-## Getting Started
+## Guide
 
-This project is a starting point for a Flutter application.
+1. Run flutter upgrade
+2. Run flutter pub get
+3. Run flutter run --release
 
-A few resources to get you started if this is your first Flutter project:
+## Screen Shot
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Login](./screen_shots/login.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home](./screen_shots/home.png)
+
+![Search](./screen_shots/search.png)
+
+

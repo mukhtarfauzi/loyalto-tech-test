@@ -1,3 +1,38 @@
+List<Map<String, String>> dataMock = [
+  {
+    'imageUrl': 'assets/images/image1.jpg',
+    'title': 'Co Worker 1',
+    'price': 'Rp. 100.000/hr',
+    'address': 'Jl. KH. Baasd',
+    'period': 'Juni 2018',
+    'discount': '50%',
+  },
+  {
+    'imageUrl': 'assets/images/image2.webp',
+    'title': 'Co Worker 2',
+    'price': 'Rp. 300.000/hr',
+    'address': 'Jl. KH. Baasd',
+    'period': 'Agustus 2018',
+    'discount': '60%',
+  },
+  {
+    'imageUrl': 'assets/images/image3.jpeg',
+    'title': 'Co Worker 3',
+    'price': 'Rp. 500.000/hr',
+    'address': 'Jl. KH. Baasd',
+    'period': 'Maret 2018',
+    'discount': '35%',
+  },
+  {
+    'imageUrl': 'assets/images/image4.jpg',
+    'title': 'Co Worker 4',
+    'price': 'Rp. 600.000/hr',
+    'address': 'Jl. KH. Baasd',
+    'period': 'Februari 2018',
+    'discount': '40%',
+  },
+];
+
 List<String> menuList = [
   'Service Eletronik',
   'Message & Theraphy',

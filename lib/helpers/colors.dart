@@ -7,3 +7,5 @@ const backgroundColor = Color(0xFFFFFFFF);
 const searchBarColor = Color(0xFFF2F2F2);
 const searchTextColor = Color(0xFF666666);
 const textBodyColor = Color(0xFFED6B25);
+const discountColor = Color(0xFFEB5757);
+const navBarColor = Color(0xFFEBEBEB);

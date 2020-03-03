@@ -13,6 +13,8 @@ dependencies:
   cupertino_icons: ^0.1.3
   font_awesome_flutter: ^8.7.0
   flutter_svg: ^0.17.2
+  flutter_swiper: ^1.1.6
+  sticky_headers: ^0.1.8+1
 
 
 dev_dependencies:
